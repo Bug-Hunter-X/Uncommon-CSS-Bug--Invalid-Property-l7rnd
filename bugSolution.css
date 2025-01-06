@@ -1,0 +1,9 @@
+/* Corrected CSS - bugSolution.css */
+.element {
+  /* Remove invalid property */
+  /* Use valid CSS properties instead */
+  color: blue;
+  font-size: 16px;
+}
+
+/* Avoid using outdated or unsupported vendor prefixes */
